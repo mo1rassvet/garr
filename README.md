@@ -1,2 +1,2 @@
-# garr
+# tea.yaml
 tea OSS Project
